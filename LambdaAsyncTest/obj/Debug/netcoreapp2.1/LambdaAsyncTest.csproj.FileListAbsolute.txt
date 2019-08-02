@@ -1,0 +1,14 @@
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\bin\Debug\netcoreapp2.1\LambdaAsyncTest.deps.json
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\bin\Debug\netcoreapp2.1\LambdaAsyncTest.runtimeconfig.json
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\bin\Debug\netcoreapp2.1\LambdaAsyncTest.runtimeconfig.dev.json
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\bin\Debug\netcoreapp2.1\LambdaAsyncTest.dll
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\bin\Debug\netcoreapp2.1\LambdaAsyncTest.pdb
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.csprojAssemblyReference.cache
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.csproj.CoreCompileInputs.cache
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.RazorAssemblyInfo.cache
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.RazorAssemblyInfo.cs
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.AssemblyInfoInputs.cache
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.AssemblyInfo.cs
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.RazorTargetAssemblyInfo.cache
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.dll
+C:\Users\mg6929\Documents\Visual Studio 2017\Projects\LambdaAsyncTest\LambdaAsyncTest\obj\Debug\netcoreapp2.1\LambdaAsyncTest.pdb
