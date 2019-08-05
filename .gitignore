@@ -1,9 +1,5 @@
-**/.vs/
+**/.vs/**/*
 *.DotSettings
 *.user
-**/bin/
-**/obj/
-.vs/LambdaAsyncTest/v15/.suo
-.vs/LambdaAsyncTest/v15/Server/sqlite3/storage.ide-shm
-.vs/LambdaAsyncTest/v15/Server/sqlite3/storage.ide-wal
-.vs/LambdaAsyncTest/v15/.suo
+**/bin/**/*
+**/obj/**/*
