@@ -1,0 +1,25 @@
+{
+  "errorType": "AggregateException",
+  "errorMessage": "One or more errors occurred. (Object reference not set to an instance of an object.)",
+  "stackTrace": [
+    "at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)",
+    "at lambda_method(Closure , Stream , Stream , LambdaContextInternal )"
+  ],
+  "cause":   {
+    "errorType": "NullReferenceException",
+    "errorMessage": "Object reference not set to an instance of an object.",
+    "stackTrace": [
+      "at Amazon.Lambda.AspNetCoreServer.APIGatewayProxyFunction.MarshallRequest(InvokeFeatures features, APIGatewayProxyRequest apiGatewayRequest, ILambdaContext lambdaContext)",
+      "at Amazon.Lambda.AspNetCoreServer.AbstractAspNetCoreFunction`2.FunctionHandlerAsync(TREQUEST request, ILambdaContext lambdaContext)"
+    ]
+  },
+  "causes": [    {
+      "errorType": "NullReferenceException",
+      "errorMessage": "Object reference not set to an instance of an object.",
+      "stackTrace": [
+        "at Amazon.Lambda.AspNetCoreServer.APIGatewayProxyFunction.MarshallRequest(InvokeFeatures features, APIGatewayProxyRequest apiGatewayRequest, ILambdaContext lambdaContext)",
+        "at Amazon.Lambda.AspNetCoreServer.AbstractAspNetCoreFunction`2.FunctionHandlerAsync(TREQUEST request, ILambdaContext lambdaContext)"
+      ]
+    }
+  ]
+}
